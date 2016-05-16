@@ -1,0 +1,6 @@
+ClientApp/.idea/
+ClientApp/node_modules/
+ClientApp/.build/
+ServerApp/.idea/
+ServerApp/node_modules/
+ServerApp/.build/

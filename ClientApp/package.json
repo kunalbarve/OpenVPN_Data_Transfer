@@ -1,0 +1,15 @@
+{
+  "name": "ClientApp",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "url": "^0.11.0",
+    "body-parser": "~1.15.0",
+    "prompt": "*",
+    "crypto": "*",
+    "request": "*"
+  }
+}
